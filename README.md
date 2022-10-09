@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jorge Ayala
+- 👋 Hi, I’m Jorge Ayala!
 - 👀 I’m extremely interested and curious on how computers work
 - 🌱 I’m currently learning Python and taking a introduction to Computer Science Course
 - 💞️ I’m looking to collaborate on anything
