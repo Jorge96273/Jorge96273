@@ -1,4 +1,4 @@
-Welcome!
+Welcome! Here is a bit about me
 
 - 🔭 I’m currently working on getting my computer science degree
 - 🌱 I’m currently learning to balance life
